@@ -20,3 +20,7 @@ function lightMode() {
         cards[i].style.background = "#e1e1e1";
     }
 }
+
+function campanile() {
+    window.location.href="https://github.com/NoahMeyer10/Campanile";
+}
